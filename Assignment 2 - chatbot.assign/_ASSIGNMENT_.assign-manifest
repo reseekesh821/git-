@@ -1,0 +1,78 @@
+{
+  "course": {
+    "institution": "Caldwell University",
+    "name": "CS 195 - Programming 1",
+    "description": "Introduction to Computer Science and Computer Programming",
+    "url": "https://caldwell.blackboard.com/",
+    "instructor": {
+      "name": "Dr. V",
+      "email": "vveksler@caldwell.edu"
+    }
+  },
+  "name": "Assignment 2 - chatbot",
+  "due": "2024-09-09",
+  "description": "",
+  "instructions": "## create a chatbot\n- create a file in this folder called `chatbot.py`\n- add code to this file that does the the following:\n  1. asks your name\n  2. greets you by your name\n  3. asks how tall you are\n      - it's up to you whether you want to request height in inches or centimeters\n  4. tells you how many you's it would take to reach the moon\n  5. asks how much you weigh\n      - it's up to you whether you want to request height in pounds or kilograms\n  6. tells you how much you would weigh on the moon\n\n## make sure your code is readable!\n- constants should be above the rest of your code, and should use SCREAMING_SNAKE_CASE\n- variable names should use snake_case or camelCase (stick to just one or the other, don't mix the two)\n- variable/constant names should be meaningful\n- your code should have comments\n  - comments throughout explaining what the code does\n  - add comments at the top with\n>    CS195 - Assignment 2  \n>    Chatbot\n\n\n## run and copy output\n- save your code\n- run your code to completion (use a fake name)\n- copy your entire conversation with the chatbot\n- create a new file in this folder called `output.txt`\n- paste your copied output into `output.txt`\n- make sure you do not have your real name anywhere in the output\n- save `output.txt`\n\n>\n\n<font color=\"#e33\">\n*Do NOT add your name or identifying info in filename or code or anywhere in the submission\n</font>",
+  "ignoreSubmit": "",
+  "ignoreSupplied": "",
+  "files": [
+    {
+      "name": "chatbot.py",
+      "added": true,
+      "created": "2024-09-06 12:05",
+      "modified": "2024-09-07 11:05",
+      "size": 998,
+      "log": {
+        "records": 2668,
+        "last": "2024-09-15 22:01"
+      },
+      "edited": true,
+      "checksums": {
+        "ok": 71,
+        "failed": 0,
+        "unhashed": 0,
+        "last": "2024-09-15 22:01"
+      }
+    },
+    {
+      "name": "output.txt",
+      "added": true,
+      "created": "2024-09-06 13:00",
+      "modified": "2024-09-07 11:08",
+      "size": 304,
+      "log": {
+        "records": 48,
+        "last": "2024-09-07 11:07"
+      },
+      "edited": true,
+      "checksums": {
+        "ok": 1,
+        "failed": 0,
+        "unhashed": 0,
+        "last": "2024-09-06 13:05"
+      }
+    }
+  ],
+  "modified": "2024-09-15 22:01",
+  "modifiedMs": 1726452093896,
+  "required": {
+    "app": "LectureAssign for VSCode",
+    "ver": "0.2.0",
+    "url": "https://lecturedot.github.io/LectureAssign-vscode/"
+  },
+  "created": {
+    "time": "2024-09-01 14:58",
+    "uuid": "9b2aeaf6-e936-4f56-8b90-27a9d12d6c5a"
+  },
+  "started": {
+    "time": "2024-09-06 11:58",
+    "uuid": "51c4139d-b14e-4337-99ed-e0838c854f89"
+  },
+  "submissions": [
+    {
+      "time": "2024-09-07 11:08",
+      "uuid": "4bdd763f-d8c5-40ca-bc59-88d073a80c50",
+      "path": "c:\\Users\\hp\\Desktop\\cs195\\Assignment 2 - chatbot.assign\\Assignment 2 - chatbot-2024-09-07-11-08.submit"
+    }
+  ]
+}

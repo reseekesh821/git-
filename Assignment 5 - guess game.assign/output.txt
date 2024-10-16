@@ -1,0 +1,41 @@
+Assignment 5 - guess game.assign/guess.py"
+
+Hello, welcome to the number guessing game!
+
+Please enter a number between 1 to 100: 456
+Oops😴, you did not enter a valid number within the range. Please try again.
+Please enter a number between 1 to 100: 34
+Your number is too high
+Please enter a number between 1 to 100: 24
+Your number is too low
+Please enter a number between 1 to 100: 27
+Your number is too low
+Please enter a number between 1 to 100: 32
+Your number is too high
+Please enter a number between 1 to 100: 30
+Your number is too low
+Please enter a number between 1 to 100: 31
+Congratulations🎊. You guess the correct number.
+Your score is: 4
+
+Do you want to play again?: Yes
+Please enter a number between 1 to 100: -34
+Oops😴, you did not enter a valid number within the range. Please try again.
+Please enter a number between 1 to 100: 45
+Your number is too low
+Please enter a number between 1 to 100: 65
+Your number is too low
+Please enter a number between 1 to 100: 75
+Your number is too low
+Please enter a number between 1 to 100: 85
+Your number is too low
+Please enter a number between 1 to 100: 96
+Your number is too high
+Please enter a number between 1 to 100: 90
+Your number is too low
+Please enter a number between 1 to 100: 94
+Congratulations🎊. You guess the correct number.
+Your score is: 3
+
+Do you want to play again?: No
+Thanks for playing! Good game!😍

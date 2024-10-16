@@ -1,0 +1,78 @@
+{
+  "course": {
+    "institution": "Caldwell University",
+    "name": "CS 195 - Programming 1",
+    "description": "Introduction to Computer Science and Computer Programming",
+    "url": "https://caldwell.blackboard.com/",
+    "instructor": {
+      "name": "Dr. V",
+      "email": "vveksler@caldwell.edu"
+    }
+  },
+  "name": "Assignment 5 - guess game",
+  "due": "2024-09-30",
+  "description": "",
+  "instructions": "## create a guess-a-number game\n\n- create a file called `guess.py`\n- in this file add code that does the following:\n  1. think a random number `myNum` between 1 and 100\n      - To generate a random number between 1 and 100 you need to\n        1. add the following line at the top of your code: `import random`\n        2. when you need to get a random number, use the following code: `myNum = random.randint(1,100)`\n  2. ask player to guess a number between 1 and 100\n  3. if player's response is not a valid positive integer, ask again until it is\n  4. if player's guess is less than `myNum`, let them know their guess is too low, then go back to step 2\n  5. otherwise, if player's guess is higher than `myNum`, let them know their guess is too high, then go back to step 2\n  6. otherwise, if player's guess is spot on, tell them they win!\n- Extra Credit 1 (5pts):\n  - Keep track of the number of user guesses\n  - At the end of each game, tell user their score, where score = 10 - [number of guesses]\n- Extra Credit 2 (5pts):\n  - Allow user to play multiple games\n  - At the end of each game, ask user if they want to play again\n  - If user says yes, restart the game, otherwise end program\n- after your code is running without issue run it, copy all output, paste into the provided `output.txt` file\n- make sure code is clean, commented, and readable\n- <font color='#d33'>make sure your name is not shown in your code or in the output</font>\n- make sure all your files are saved",
+  "ignoreSubmit": "",
+  "ignoreSupplied": "",
+  "files": [
+    {
+      "name": "guess.py",
+      "added": true,
+      "created": "2024-09-29 16:11",
+      "modified": "2024-09-29 21:52",
+      "size": 2033,
+      "log": {
+        "records": 5858,
+        "last": "2024-09-29 22:09"
+      },
+      "edited": true,
+      "checksums": {
+        "ok": 138,
+        "failed": 0,
+        "unhashed": 0,
+        "last": "2024-09-29 22:08"
+      }
+    },
+    {
+      "name": "output.txt",
+      "supplied": true,
+      "created": "2024-09-21 21:48",
+      "modified": "2024-09-29 21:54",
+      "size": 1385,
+      "log": {
+        "records": 41,
+        "last": "2024-09-29 21:55"
+      },
+      "checksums": {
+        "ok": 4,
+        "failed": 0,
+        "unhashed": 0,
+        "last": "2024-09-29 21:55"
+      },
+      "edited": true
+    }
+  ],
+  "modified": "2024-09-29 22:09",
+  "modifiedMs": 1727662199799,
+  "required": {
+    "app": "LectureAssign for VSCode",
+    "ver": "0.2.0",
+    "url": "https://lecturedot.github.io/LectureAssign-vscode/"
+  },
+  "created": {
+    "time": "2024-09-21 22:07",
+    "uuid": "5feb8e3a-a5c2-45b7-9550-c2e86ffb01f0"
+  },
+  "started": {
+    "time": "2024-09-29 12:31",
+    "uuid": "db2410c7-6e84-4e21-9281-12268b3db621"
+  },
+  "submissions": [
+    {
+      "time": "2024-09-29 21:56",
+      "uuid": "301ea14a-b93d-44b5-aeba-e741ad0b4d48",
+      "path": "c:\\Users\\hp\\Desktop\\cs195\\Assignment 5 - guess game.assign\\Assignment 5 - guess game-2024-09-29-21-55.submit"
+    }
+  ]
+}

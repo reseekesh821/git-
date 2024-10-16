@@ -1,0 +1,13 @@
+Assignment 4 - echobot(2).assign/echobot.py"
+Hello
+>>jfk
+well, jfk right back at ya
+>>quit
+Goodbye!
+
+Assignment 4 - echobot(2).assign/echobot.py"
+Hello
+>>lajk
+well, lajk right back at ya
+>>QuiT
+Goodbye!

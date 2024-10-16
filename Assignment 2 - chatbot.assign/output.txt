@@ -1,0 +1,7 @@
+cs195/Assignment 2 - chatbot.assign/chatbot.py
+What is your name? Mat
+hello, Mat nice to meet you      
+how tall you are in centimeters? 162
+Oh! then, It would take approximately 2372839.51 of your hight to reach the moon 
+Please enter your weight in kilo gram! 60
+You weigh approximately 10.0 kg in moon

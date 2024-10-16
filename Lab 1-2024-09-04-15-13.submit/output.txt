@@ -1,0 +1,16 @@
+cs195/Lab 1.assign/hello.py
+Enter your name: Mat Henry
+Hello, Mat Henry
+
+cs195/Lab 1.assign/xy.py
+5
+
+cs195/Lab 1.assign/xy2.py
+xy
+
+
+Lab 1.assign\xy3.py", line 2, in <module>
+    print( 'x' + y )
+           ~~~~^~~
+TypeError: can only concatenate str (not "int") to str
+

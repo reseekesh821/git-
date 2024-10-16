@@ -1,0 +1,13 @@
+cs195/Assignment 3 - better chatbot.assign/chatbot.py"
+
+What is your name?                  Hari Bhadur
+
+Hello, HARI BHADUR nice to meet you.
+
+How tall you are in centimeters?    162
+
+Oh! then, it would take approximately 237283950.62 of your height to reach the moon.
+
+Please enter your weight in kilo gram!    60
+
+You weigh approximately 10.0 kg in moon.
