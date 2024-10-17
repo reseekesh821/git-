@@ -1,3 +1,0 @@
-# 
-if False:
-    print("hello")
